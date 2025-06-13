@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Design of Water Leakage Monitoring System Based on Sensors and Indicator Lights",
+        "year": "2024",
+        "fund": "Internship Funding & Toyota Partner Support",
+        "partner": "Microthings & Toyota Indonesia",
+        "role": "Junior Engineer",
+        "description": "Designed and built a non-IoT water leakage monitoring system based on panel technology, utilizing water sensors and indicator lights for early leak detection. The system is intended for industrial and building applications with a focus on reliability and visual alerts.",
+        "image": "images/project1.jpg"
+    },
+    {
+        "title": "Design of Water Leak Detection Control Panel Using Flowmeter and Indicator",
+        "year": "2024",
+        "partner": "Microthings & Industrial Partner Company.",
+        "role": "Junior Engineer Intern",
+        "description": "Developed a water leak detection system using a control panel integrated with flowmeter sensors and indicator lights. The system enables real-time leak monitoring without relying on IoT, designed for industrial facility applications.",
+        "image": "images/project2.jpg"
+        
+    },
+	{
+        "title": "Analysis and Checking of RS485 Serial Modbus Communication for Customer Needs",
+        "year": "2024",
+        "partner": "Microthings & McD.",
+        "role": "Technical Analyst Intern",
+        "description": "Performed analysis and troubleshooting of RS485 Modbus serial communication to meet specific customer integration requirements. Ensured reliable data transmission between devices within industrial systems.",
+        "image": "images/project3.jpg"
+    },
+    {
+        "title": "Installation and Configuration of THM-30MD Sensor Using S475E and Modbus Software",
+        "year": "2024",
+        "role": "Sensor Integration Intern",
+        "description": "Installed and configured the THM-30MD temperature and humidity sensor using the S472E device and Modbus communication software. Ensured accurate sensor readings and stable communication for industrial monitoring systems.",
+        "image": "images/project4.jpg"
+    },
+	{
+        "title": "Installation and Configuration of Device S281 for Integration of WT106 Sensor and KP-TX1100",
+        "year": "2024",
+        "fund": "Microthings & Hydropath",
+        "partner": "Hydropath",
+        "role": "Device Integration Intern",
+        "description": "Installed and configured the S281 device to enable seamless integration between the WT106 sensor and the KP-TX1100 transmitter. The setup ensured accurate data acquisition and communication in line with industrial monitoring standards.",
+        "image": "images/project5.jpg"
+    },
+    {
+        "title": "Routing and IP Address Configuration on MikroTik Router",
+        "year": "2022",
+        "role": "Network Technician",
+        "description": "Configured IP addresses and routing tables using MikroTik Winbox on RB951Ui-2HnD. Set up static routes, managed unreachable gateways, and verified connectivity between different subnets (192.168.1.0/24 and 192.168.5.0/24) for efficient network communication.",
+        "image": "images/project6.PNG"
+    },
+    {
+        "title": "Development of Web-Based CBT (Computer Based Test) System",
+        "year": "2021",
+        "role": "Full-Stack Web Developer",
+        "description": "Designed and implemented an online examination system (CBT) for local use in educational settings. Responsible for both front-end and back-end development, including user authentication, question management, test execution, and result display.",
+        "image": "images/project7.jpg"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "company": "Microthings",
+		"logo":"images/Microthings.jpg",
+        "position": "Intership Junior Engineering",
+        "year": "2024 - 2025",
+        "description": "During my internship at Microthings, I was involved in the development of a panel-based water leakage monitoring system using sensors and indicator lights. I contributed to hardware assembly, sensor calibration, and system testing to ensure reliable detection and response. This experience enhanced my technical skills in electronics and deepened my understanding of real-world engineering applications outside of IoT-based solutions."
+    }
+]

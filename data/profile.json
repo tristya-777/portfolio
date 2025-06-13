@@ -1,0 +1,31 @@
+{
+    "name": "Retno Tristyaningsih - Electronics Engineering Student.",
+    "description": "Dedicated and hands-on Electronics Engineering graduate with strong technical skills in IoT systems, hardware programming, and industrial sensor integration. Experienced through internship and academic projects, particularly in designing non-IoT and Modbus-based monitoring systems. Quick to adapt, highly disciplined, and effective both in teams and independently. Passionate about learning emerging technologies and applying them in practical engineering solutions. Eager to contribute to innovative hardware-based projects and continue growing as a reliable and skilled technician or engineer.",
+    "profileImage": "images/profile.png",
+    "email": "retnotristyan89081@gmail.com",
+    "phone": "+62 (856) 9424-2696",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/retno-tristyaningsih"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/tristya-777"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CV_Retno Tristyaningsih.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+  { "name": "Internet of Things", "icon": "fas fa-wifi", "level": 70 },
+  { "name": "Hardware Design", "icon": "fas fa-desktop", "level": 60 },
+  { "name": "Hardware Programming", "icon": "fas fa-c", "level": 65 },
+  { "name": "Web Programming", "icon": "fab fa-js", "level": 50 },
+  { "name": "Project Management", "icon": "fas fa-list-check", "level":  85 },
+  { "name": "Academic Writing", "icon": "fas fa-pen", "level": 70 },
+  { "name": "Foreign Languages", "icon": "fas fa-language", "level": 70 }
+]
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Electronics Engineering",
+        "year": "2022 - 2025",
+        "description": "I am a student at Semarang State Polytechnic, majoring in Electrical Engineering with a focus on the D3 Electronics program, currently holding a GPA of 3.5. I demonstrate strong capabilities in both team and individual work, exhibit discipline and responsibility in my tasks, and possess a quick learning ability for new concepts. I am communicative and have a keen interest in exploring various fields, particularly in PLC, PPID, Process Engineering, and Research and Development"
+    },
+    {
+       "university": "SMKN 4 Jakarta Utara",
+        "logo": "images/smk4.png", 
+        "major": "Computer and Network Engineering", 
+        "year": "2019 - 2022", 
+        "description": "Graduated from Vocational High School majoring in Computer and Network Engineering (TKJ). Gained foundational knowledge in computer systems, network configuration, basic programming, and IT troubleshooting. Developed a strong technical base and discipline that supported further study in electronics engineering." 
+    }
+
+    
+]
