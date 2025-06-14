@@ -7,7 +7,7 @@
     "socialMedia": [
         {
             "platform": "LinkedIn",
-            "url": "https://www.linkedin.com/in/retno-tristyaningsih"
+            "url": "https://id.linkedin.com/in/retno-tristyaningsih-4943172a3"
         },
         {
             "platform": "GitHub",
@@ -22,7 +22,7 @@
     "skills": [
   { "name": "Internet of Things", "icon": "fas fa-wifi", "level": 70 },
   { "name": "Hardware Design", "icon": "fas fa-desktop", "level": 60 },
-  { "name": "Hardware Programming", "icon": "fas fa-c", "level": 65 },
+  { "name": "Hardware Programming", "icon": "fas fa-c", "level": 60 },
   { "name": "Web Programming", "icon": "fab fa-js", "level": 50 },
   { "name": "Project Management", "icon": "fas fa-list-check", "level":  85 },
   { "name": "Academic Writing", "icon": "fas fa-pen", "level": 70 },
